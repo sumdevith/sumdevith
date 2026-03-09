@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Devith and I'm a Student Data Scientist</h2>
+<h2 align="left">Hello 👋! My name is Devith and I'm a Student Data Scientist</h2>
 <p>I am working on website analysis and cloning, and I am also learning to create a bot.</p>
 
 
